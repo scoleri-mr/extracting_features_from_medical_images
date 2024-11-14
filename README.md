@@ -1,5 +1,5 @@
 # Extracting features from medical images
-Authors: Maria Scoleri, Antonio Ferrigno, Fabio Barbieri, Vittorio di Giorgio 
+Authors: Maria Rosa Scoleri, Antonio Ferrigno, Fabio Barbieri, Vittorio di Giorgio 
 
 # Project structure
 
